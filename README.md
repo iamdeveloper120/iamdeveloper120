@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamdeveloper120
-- 👀 I’m interested in ... developinh web services using different backend languages specialy laravel
+- 👀 I’m interested in ... developing web services using different backend languages specialy laravel
 - 🌱 I’m currently learning ... react-native and flutter
 - 💞️ I’m looking to collaborate on ... what you want!
 - 📫 How to reach me ... itianz@outlook.com
